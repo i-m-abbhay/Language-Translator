@@ -23,11 +23,11 @@ We can translate our text in 107 different languages given below with just a sin
 
 At first we store the input text in a variable by using textblob for later manipulation purposes.
 
-![Untitled](Language%20T%209c33c/Untitled.png)
+![Untitled](README/Untitled 1.png)
 
 Then we’ve to select the language for input text using a dropdown list which consists of 107 languages in total.
 
-![WhatsApp Image 2022-04-16 at 2.06.52 AM.jpeg](Language%20T%209c33c/WhatsApp_Image_2022-04-16_at_2.06.52_AM.jpeg)
+![WhatsApp Image 2022-04-16 at 2.06.52 AM.jpeg](README/WhatsApp_Image_2022-04-16_at_2.06.52_AM.jpeg)
 
 Then in backend we pass the text to a translator function that uses googletrans API for further translation.
 
@@ -58,4 +58,4 @@ def translate_it():
 
 Translator function returns the translated text according to the language chosen by the user and displays it on the screen.
 
-![Untitled](Language%20T%209c33c/Untitled%201.png)
+![Untitled](README/Untitled%201.png)
