@@ -22,8 +22,7 @@ We can translate our text in 107 different languages given below with just a sin
 ### 3 Step Process
 
 At first we store the input text in a variable by using textblob for later manipulation purposes.
-
-![Untitled](README/Untitled 1.png)
+![Untitled1](https://user-images.githubusercontent.com/82487231/163661574-c79b9ea3-bc0c-49a6-ae66-baf89eff83c5.png)
 
 Then we’ve to select the language for input text using a dropdown list which consists of 107 languages in total.
 
